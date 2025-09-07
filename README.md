@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ani-6
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning django
+- 👀 I’m interested in Python, Django, Flask
+- 🌱 I’m currently learning Agentic AI
 - 👯 I’m looking to collaborate on any python project
